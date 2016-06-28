@@ -1,15 +1,12 @@
 {
   "name": "mikser-baseline",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Baseline overlay plugin",
   "main": "index.js",
   "keywords": [
     "baseline",
     "mikser"
   ],
-  "dependencies": {
-    "mousetrap": "^1.6.0"
-  },
   "author": "Almero Digital Marketing (http://almero.com)",
   "repository": {
     "type": "git",
