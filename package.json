@@ -1,6 +1,6 @@
 {
   "name": "mikser-baseline",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "Baseline overlay plugin",
   "main": "index.js",
   "keywords": [
@@ -12,5 +12,8 @@
     "type": "git",
     "url": "https://github.com/almero-digital-marketing/mikser-baseline.git"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "mousetrap": "^1.6.0"
+  }
 }
